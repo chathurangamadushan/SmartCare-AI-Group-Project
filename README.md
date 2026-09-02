@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \## Coursework Module
 
 
@@ -132,3 +133,7 @@ Open the prototype folder:
 
 cd prototype
 
+=======
+# SmartCare-AI-Group-Project
+CCS3440 Artificial Intelligence group coursework – SmartCare Appointment No-Show Prediction System
+>>>>>>> efe186bd11d0f2d379edadf56eae43dc86a6712d
